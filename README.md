@@ -1,3 +1,11 @@
+## Usage:
+Source each script to generate the required graph.
+
+## Assumption for the project:
+You have the unzipped data in the working directory.
+You have installed the data.table package as it speeds up the loading considerably (by using fread).
+Alternatively, you can use the read.csv function.
+
 ## Introduction
 
 This assignment uses data from
